@@ -1,0 +1,20 @@
+{
+    "name": "viriusapi/viri",
+    "description": "Simple Library packages for restful api.",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Viriusapi\\Viri\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhamad Ariq Azis A.",
+            "email": "ariqaziz74@gmail.com"
+        }
+    ]
+}
