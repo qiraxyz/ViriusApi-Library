@@ -2,7 +2,7 @@
     "name": "viriusapi/viri",
     "description": "Simple Library packages for restful api.",
     "type": "library",
-    "minimum-stability": "dev",
+    "minimum-stability": "prefer-stable",
     "require": {
         "guzzlehttp/guzzle": "^7.5"
     },
