@@ -1,0 +1,26 @@
+{
+    "name": "viriusapi/viri",
+    "description": "The Simple Library restful api.",
+    "type": "library",
+<<<<<<< HEAD
+=======
+    "minimum-stability": "prefer-stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+>>>>>>> 1beb6870b6249e1d7696876af354521f79bbf331
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Viriusapi\\Viri\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhamad Ariq Azis A.",
+            "email": "ariqaziz74@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
